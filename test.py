@@ -3,4 +3,5 @@ b = 8
 
 
 c = a * b
+f = c
 print(c)
