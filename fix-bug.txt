@@ -1,3 +1,5 @@
 This file is used to fix bug.
 
 1st bug fixed
+
+pink bug fixed
